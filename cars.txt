@@ -15,3 +15,4 @@ width           FLOAT UNSIGNED      NULL
 height          FLOAT UNSIGNED      NULL
 kilometers      INT UNSIGNED        DEFAULT(0)
 year_sold       YEAR                NULL
+price           FLOAT UNSIGNED      NULL
